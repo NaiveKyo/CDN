@@ -29,7 +29,8 @@
     .post-container {
         width: 90%;
         margin: 0 auto;
-        max-width: 1250px;
+        /* max-width: 1250px; */
+        max-width: 1459px;
     }
 }
 
@@ -583,7 +584,7 @@ header .go-back i {
     line-height: 1.3em;
     margin-bottom: 20px;
     position: relative;
-	background: linear-gradient(to right, #1e8ed4, #24c70d);
+	background: linear-gradient(to right, #4caf50, #eee);
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
     background-clip: text;
